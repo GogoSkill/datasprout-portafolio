@@ -21,7 +21,7 @@ Welcome to my portfolio! I'm a data consultant with experience in football, reta
 Explore the folders in this repo:
 
 - [`dashboards/`](./dashboards) – Power BI visuals and reports
-- [`football/`](./Projects and scripts) – Python analysis, SQL insights, scouting tools, retail analytics and performance data
+- [`Projects and scripts/`](./Projects and scripts) – Python analysis, SQL insights, scouting tools, retail analytics and performance data
 - [`about/`](./about) – Tools I use, certifications, and background
 
 ---
