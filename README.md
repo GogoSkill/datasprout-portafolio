@@ -21,7 +21,7 @@ Welcome to my portfolio! I'm a data consultant with experience in football, reta
 Explore the folders in this repo:
 
 - [`dashboards/`](./dashboards) – Power BI visuals and reports
-- [`Projects and scripts/`](./Projects and scripts) – Python analysis, SQL insights, scouting tools, retail analytics and performance data
+- [`projects/`](./projects) – Python analysis, SQL insights, scouting tools, retail analytics and performance data
 - [`about/`](./about) – Tools I use, certifications, and background
 
 ---
@@ -37,8 +37,8 @@ Explore the folders in this repo:
 
 ## Get in Touch
 
-- **Email:** [your email here]
-- **LinkedIn:** [your LinkedIn]
-- **Portfolio link:** [drive.proton.me portfolio link]
+- **Email:** oscar.gonzalezg@proton.me
+- **LinkedIn:** www.linkedin.com/in/oscar-gogo93/
+- **Portfolio link:** https://drive.proton.me/urls/F5ZA402M50#xtJrpGYWAled
 
 Let’s build something great with data!
