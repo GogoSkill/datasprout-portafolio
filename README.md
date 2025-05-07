@@ -22,7 +22,7 @@ Explore the folders in this repo:
 
 - [`dashboards/`](./dashboards) – Power BI visuals and reports
 - [`projects/`](./projects) – Python analysis, SQL insights, scouting tools, retail analytics and performance data
-- [`tools/`](./about) – Tools I use, certifications, and background
+- [`tools/`](./tools) – Tools I use, certifications, and background
 
 ---
 
