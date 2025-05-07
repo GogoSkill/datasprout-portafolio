@@ -1,4 +1,4 @@
-# datasprout-portafolio
+# datasprout-portfolio
 Data analytics, dashboards, and consulting projects by Oscar González
 
 # 👋 Hi, I'm Oscar González – Data Consultant & Analyst
